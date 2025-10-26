@@ -3,6 +3,7 @@ import '../models/document.dart';
 import '../providers/document_provider.dart';
 import '../widgets/document_card.dart';
 import 'document_detail_screen.dart';
+import 'package:provider/provider.dart';
 
 class SearchScreen extends StatefulWidget {
   @override
